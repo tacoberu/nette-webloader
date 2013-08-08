@@ -1,5 +1,5 @@
 {
-	"name": "janmarek/webloader",
+	"name": "tacoberu/webloader",
 	"description": "Tool for loading or deploying CSS and JS files into web pages",
 	"keywords": ["webloader", "css", "javascript", "assets", "nette"],
 	"homepage": "http://addons.nette.org/cs/webloader",
@@ -8,6 +8,10 @@
 		{
 			"name": "Jan Marek",
 			"email": "mail@janmarek.net"
+		},
+		{
+			"name": "Martin Takáč",
+			"email": "martin@takac.name"
 		}
 	],
 	"autoload": {
